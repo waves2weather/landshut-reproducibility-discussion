@@ -8,7 +8,7 @@
 
 [**Reproducible Research Coursera course**](https://www.coursera.org/learn/reproducible-research): A course on reproducibility mostly focused on R.
 
-**Greg Wilson's papers**: [Best](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) and [Good Enough](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) Practices for Scientific Computing. Fantastic tipps and tricks for coding. Easy to read and implement.
+**Greg Wilson's papers**: [Best](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745) and [Good Enough](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) Practices for Scientific Computing. Fantastic tips and tricks for coding. Easy to read and implement.
 
 [**Stephan's convective variability Github repository**](https://github.com/raspstephan/convective_variability_analysis): Example repository for a reproducible paper. Note that this is just one way to approach computational reproducibility. There are doubtless many other and many better ways of doing this.
 
