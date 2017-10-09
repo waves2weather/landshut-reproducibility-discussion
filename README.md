@@ -15,3 +15,9 @@
 [**Jupyter notebooks**](http://jupyter.org/) and [**R Markdown**](http://rmarkdown.rstudio.com/): Tools for literate programming.
 
 [**Victoria Stodden**](http://web.stanford.edu/~vcs/index.html): One of the people at the forefront of the reproducibility movement.
+
+## Mentioned during the discussion
+
+[**Learning from mistakes in climate research**](https://link.springer.com/article/10.1007/s00704-015-1597-5) Mentioned by [Hannah Christensen](https://staff.ucar.edu/users/hannahc)
+
+[**ISO 9000**](https://www.iso.org/iso-9001-quality-management.html) Mentioned by [Bruce Macpherson](https://www.metoffice.gov.uk/research/people/bruce-macpherson)
